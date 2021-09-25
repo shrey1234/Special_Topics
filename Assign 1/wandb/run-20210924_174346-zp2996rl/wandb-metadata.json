@@ -1,0 +1,24 @@
+{
+    "root": "/content",
+    "program": "<python with no main file>",
+    "colab": "https://colab.research.google.com/drive/1YDiEfzGcFQ_VN8kFYRkmSUmgEoQMH3An",
+    "startedAt": "2021-09-24T21:10:40.687723",
+    "host": "f9274605bfa7",
+    "username": "root",
+    "executable": "/usr/bin/python3",
+    "os": "Linux-5.4.104+-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.7.12",
+    "gpu": "Tesla K80",
+    "gpu_count": 1,
+    "cpu_count": 2,
+    "args": [
+        "-f",
+        "/root/.local/share/jupyter/runtime/kernel-01bc193e-d128-46cd-9696-d788c334d9e1.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "royal-leaf-4",
+    "project": "simclr",
+    "heartbeatAt": "2021-09-24T21:10:44.196807"
+}
